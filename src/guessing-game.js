@@ -1,4 +1,4 @@
-class { 
+class __game { 
     constructor() {}
 
     setRange(min, max)  {
